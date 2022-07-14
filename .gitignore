@@ -1,0 +1,11 @@
+# PyCharm configs
+.idea
+
+# Pythom cached data
+__pycache__
+
+# Credentials
+credentials.json
+
+# Tokens
+tokens
